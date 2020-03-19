@@ -37,7 +37,7 @@ i:hover {
 }
 #quote:hover {
    background-color: rgba(238, 238, 238, 0.548) ;
-   transition-duration: 2s ease;
+   transition-duration: 2s;
    box-shadow: 1px 1px rgba(0, 0, 0, 0.144);
    cursor: pointer;
    
